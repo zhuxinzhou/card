@@ -19,12 +19,11 @@
         <form class="form-inline wrap_search">
             <div class="row  m-t p-w-m">
                 <div class="form-group">
-      <select name="status" class="form-control inline">
-        <option value="-1">请选择状态</option>
-            {% for temp_key in status_mapping %}
-            <option value="{{ temp_key }}" {%if temp_key == search_con['status']%} selected {% endif %}>{{ status_mapping[temp_key] }}</option>
-            {% endfor %}
-      </select>
+                    <select name="status" class="form-control inline">
+                        <option value="-1">请选择状态</option>
+                        <option value="1">正常</option>
+                        <option value="0">已删除</option>
+                    </select>
                 </div>
             </div>
             <hr>
@@ -49,33 +48,23 @@
             </tr>
             </thead>
             <tbody>
-            {% if list %}
-            {% for item in list %}
-
             <tr>
-                <td>{{ item.id }}</td>
-                <td>{{ item.name }}</td>
-                <td>{{ item.status_desc }}</td>
-                <td>{{ item.weight}}</td>
+                <td>8</td>
+                <td>111</td>
+                <td>正常</td>
+                <td>11</td>
                 <td>
-                    <a class="m-l" href="{{ buildUrl('/food/cat-set') }}?id={{ item.id }}">
+                    <a class="m-l" href="{{ buildUrl('/food/cat-set') }}">
                         <i class="fa fa-edit fa-lg"></i>
                     </a>
 
-                    <a class="m-l remove" href="javascript:void(0);" data={{ item.id }}>
+                    <a class="m-l remove" href="javascript:void(0);" data="8">
                         <i class="fa fa-trash fa-lg"></i>
                     </a>
                 </td>
             </tr>
-                {% endfor %}
-                {% else %}
-                <tr aria-colspan="5">暂无数据</tr>
-               {% endif %}
             </tbody>
         </table>
     </div>
 </div>
-{% endblock %}
-{% block js %}
-    <script src="../../static/js/food/cat.js"></script>
 {% endblock %}

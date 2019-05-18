@@ -168,7 +168,7 @@ def noteIndex():
 
                 day_time = (item.last_time - d).days
                 if (day_time >= 0):
-                    if (day_time <= 1):
+                    if (day_time < 1):
                         minute_time = math.floor(((item.last_time - d).seconds) / 3600)
                         if minute_time == 0:
                             minute_time = math.floor(((item.last_time - d).seconds) / 60)
@@ -357,7 +357,7 @@ def cardstudy():
     card_id = req['card_id'] if 'card_id' in req else ''
     try:
         card = Card.query.filter(Card.id == card_id).first()
-        if card.study_status == 6:
+        if card.study_status == 100:
             card.status = 1
             return resp
 
@@ -461,7 +461,7 @@ def cardinset():
         model_card.card_content = content_part1 + card_content + content_part2 + imagepath + content_part3
         model_card.fromid = fromid
 
-        model_card.last_time = getReviewDate(1 /12)
+        model_card.last_time = getReviewDate(1 /2)
         db.session.add(model_card)
 
         db.session.commit()
@@ -470,7 +470,7 @@ def cardinset():
         model_queue = QueueList()
         model_queue.queue_name = model_card.id
 
-        model_queue.next_time = getReviewDate(1 / 12)
+        model_queue.next_time = getReviewDate(1 / 2)
 
         model_queue.created_time = getCurrentDate()
 

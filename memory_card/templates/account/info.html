@@ -28,9 +28,9 @@
                 <img class="img-circle circle-border" src="{{ buildStaticUrl('/images/common/avatar.png') }}" width="100px" height="100px">
             </div>
             <div class="col-lg-10">
-                <p class="m-t">姓名：{{ info.nickname }}</p>
-                <p>手机：{{ info.mobile }}</p>
-                <p>邮箱：{{ info.email }}</p>
+                <p class="m-t">姓名：gfddf</p>
+                <p>手机：dfgdd</p>
+                <p>邮箱：dfgdg</p>
             </div>
         </div>
         <div class="row m-t">
@@ -53,17 +53,10 @@
                                         <tr>
                                             <th>访问时间</th>
                                             <th>访问Url</th>
-
                                         </tr>
                                     </thead>
                                     <tbody>
-                                    {% if see_info  %}
-                                        {% for item in see_info %}
-									<tr><td >{{ item.created_time}}<td>{{ item.target_url }}</td></tr>
-                                        {% endfor %}
-                                    {% else %}
-                                    <tr><td colspan="2">暂无数据</td></tr>
-                                    {% endif %}
+									<tr><td colspan="2">暂无数据</td></tr>
                                      </tbody>
                                 </table>
                             </div>

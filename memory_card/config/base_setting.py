@@ -10,18 +10,6 @@ APP = {
 }
 domain='https://jiyikapian.cn/'
 
-time_status = [6/12,24,48,72,156,360]
+time_status = [6/12,12,24,48,72,120,170,172]
 
-INGNORE_URLS =[
-    "^/user/login",
-    "/api"
 
-]
-
-INGNORE_CHECK_LOGIN_URLS =[
-    "^/static",
-    "^/favicon.ico"
-
-]
-
-AUTH_COOKIE_NAME = "Card"
