@@ -39,7 +39,7 @@ var foodcat_set_ops ={
                 };
                 btn_target.addClass("disabled");
                 $.ajax({
-                    url:common_ops.buildUrl("/food/cat-set"),
+                    url:common_ops.buildUrl("/card/cat-set"),
                     type:"POST",
                     data:data,
                     dataType:'json',
@@ -50,7 +50,7 @@ var foodcat_set_ops ={
 
                         if (res.code== 200){
                             callback =function () {
-                                window.location.href =  common_ops.buildUrl("/food/cat")
+                                window.location.href =  common_ops.buildUrl("/card/cat")
                                 
                             }
 

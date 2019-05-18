@@ -1,421 +1,537 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b1e006a-4e00-4342-ab47-650417431773" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/memory_card" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/app.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distiview/card/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/distiview/card/index.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distiview/swipeout/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/distiview/swipeout/index.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/accordion-group/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/accordion-group/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/accordion-group/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/accordion-group/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/accordion/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/accordion/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/accordion/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/accordion/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/actionsheet/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/actionsheet/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/actionsheet/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/actionsheet/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/alert/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/alert/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/alert/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/alert/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/animation-group/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/animation-group/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/animation-group/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/animation-group/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/avatar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/avatar/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/avatar/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/avatar/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/backdrop/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/backdrop/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/backdrop/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/backdrop/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/badge/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/badge/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/badge/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/badge/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/barcode/barcode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/barcode/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/barcode/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/barcode/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/barcode/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/button/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/button/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/button/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/button/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/calendar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/calendar/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/calendar/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/calendar/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/card/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/card/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/card/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/card/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/cascader/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/cascader/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/cascader/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/cascader/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/cell-group/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/cell-group/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/cell-group/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/cell-group/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/cell/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/cell/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/cell/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/cell/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/checkbox-group/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/checkbox-group/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/checkbox-group/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/checkbox-group/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/checkbox-item/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/checkbox-item/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/checkbox-item/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/checkbox-item/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/checkbox/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/checkbox/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/checkbox/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/checkbox/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/circle/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/circle/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/circle/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/circle/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/col/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/col/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/col/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/col/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/countdown/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/countup/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/dialog/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/dialog/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/dialog/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/dialog/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/divider/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/divider/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/divider/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/divider/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/fab-button/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/fab-button/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/fab-button/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/fab-button/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/filterbar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/filterbar/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/filterbar/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/filterbar/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/floating-button/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/floating-button/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/floating-button/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/floating-button/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/gallery/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/gallery/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/gallery/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/gallery/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/grid/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/grid/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/grid/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/grid/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/grids/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/grids/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/grids/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/grids/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/arrayTreeFilter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/baseBehavior.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/baseComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/checkIPhoneX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/classNames.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/colors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/computedBehavior.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/debounce.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/funcBehavior.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/gestures.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/isEmpty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/mergeOptionsToData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/relationsBehavior.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/safeSetDataBehavior.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/shallowEqual.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/helpers/styleToCssString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/icon/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/icon/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/icon/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/icon/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/image/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/image/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/image/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/image/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/index-item/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/index-item/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/index-item/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/index-item/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/index/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/index/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/index/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/index/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/input-number/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/input-number/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/input-number/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/input-number/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/input/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/input/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/input/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/input/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/keyboard/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/keyboard/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/keyboard/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/keyboard/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/loading/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/loading/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/loading/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/loading/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/media/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/media/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/media/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/media/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/navbar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/navbar/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/navbar/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/navbar/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/notice-bar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/notice-bar/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/notice-bar/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/notice-bar/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/notification/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/notification/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/notification/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/notification/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/pagination/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/pagination/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/pagination/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/pagination/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/popover/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/popover/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/popover/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/popover/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/popup/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/popup/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/popup/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/popup/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/progress/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/progress/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/progress/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/progress/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/prompt/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/prompt/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/prompt/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/prompt/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/qr.js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/qr.js/lib/8BitByte.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/qr.js/lib/BitBuffer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/qr.js/lib/ErrorCorrectLevel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/qr.js/lib/LICENSE-qrcode" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/qr.js/lib/Polynomial.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/qr.js/lib/QRCode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/qr.js/lib/RSBlock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/qr.js/lib/math.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/qr.js/lib/mode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/qrcode/qr.js/lib/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/radio-group/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/radio-group/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/radio-group/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/radio-group/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/radio/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/radio/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/radio/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/radio/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/rater/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/rater/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/rater/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/rater/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/refresher/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/refresher/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/refresher/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/refresher/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/result/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/result/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/result/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/result/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/row/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/row/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/row/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/row/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/search-bar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/search-bar/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/search-bar/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/search-bar/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/segmented-control/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/segmented-control/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/segmented-control/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/segmented-control/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/select/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/select/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/select/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/select/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/selectable/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/selectable/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/selectable/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/selectable/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/skeleton-avatar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/skeleton-avatar/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/skeleton-avatar/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/skeleton-avatar/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/skeleton-paragraph/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/skeleton-paragraph/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/skeleton-paragraph/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/skeleton-paragraph/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/skeleton/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/skeleton/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/skeleton/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/skeleton/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/slider/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/slider/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/slider/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/slider/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/spin/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/spin/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/spin/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/spin/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/step/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/step/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/step/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/step/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/steps/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/steps/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/steps/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/steps/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/sticky-item/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/sticky-item/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/sticky-item/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/sticky-item/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/sticky/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/sticky/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/sticky/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/sticky/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/base/fn.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/base/mixin/button.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/base/mixin/common.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/base/mixin/hairline.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/base/mixin/setArrow.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/base/mixin/setBorder.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/base/mixin/setOnepx.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/base/mixin/text.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/base/mixin/transition.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/base/reset.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/base/variable/color.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/base/variable/global.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/base/variable/util.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/styles/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/swipe-action-group/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/swipe-action-group/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/swipe-action-group/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/swipe-action-group/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/swipe-action/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/swipe-action/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/swipe-action/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/swipe-action/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/switch/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/switch/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/switch/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/switch/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tab/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tab/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tab/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tab/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tabbar-item/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tabbar-item/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tabbar-item/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tabbar-item/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tabbar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tabbar/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tabbar/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tabbar/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tabs/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tabs/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tabs/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tabs/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tag/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tag/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tag/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/tag/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/textarea/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/textarea/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/textarea/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/textarea/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeago/core/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeago/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeago/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeago/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeago/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeago/locales/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeago/locales/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeago/locales/zh_CN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeago/locales/zh_TW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeline-item/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeline-item/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeline-item/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeline-item/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeline/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeline/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeline/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/timeline/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/toast/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/toast/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/toast/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/toast/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/toptips/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/toptips/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/toptips/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/toptips/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/upload/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/upload/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/upload/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/upload/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/vcode/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/vcode/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/vcode/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/vcode/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/white-space/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/white-space/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/white-space/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/white-space/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/wing-blank/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/wing-blank/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/wing-blank/index.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/distwux/wing-blank/index.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/detial/detial.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/detial/detial.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/detial/detial.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/detial/detial.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/info/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/pages/info/info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/info/info.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/pages/info/info.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/info/info.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/pages/info/info.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/post/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/pages/post/post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/post/post.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/pages/post/post.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/post/post.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/pages/post/post.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/postdemo/postdemo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/postdemo/postdemo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/postdemo/postdemo.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/postdemo/postdemo.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/richtest/richtest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/richtest/richtest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/richtest/richtest.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/richtest/richtest.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/test/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/test/test.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/test/test.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/test/test.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/welcome/welcome.js" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/pages/welcome/welcome.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/welcome/welcome.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/pages/welcome/welcome.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/pages/welcome/welcome.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/pages/welcome/welcome.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memory_card/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/memory_card/project.config.json" afterDir="false" />
+    <list default="true" id="e13ad22b-7902-4af5-87fa-03b9e2309945" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/memory_card.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/memory_card.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/notebook.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appf.py" beforeDir="false" afterPath="$PROJECT_DIR$/appf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/libs/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/libs/helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/models/Card.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/models/Card.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/DB.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/DB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/base_setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/base_setting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/api/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interceptors/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobs/tasks/stat/daily.py" beforeDir="false" afterPath="$PROJECT_DIR$/jobs/tasks/stat/daily.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memory_card" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/food/cat.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/food/cat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/food/set.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/food/set.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/food/set_cat.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/food/set_cat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/common/layout_main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/layout_main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/common/pagenation.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/pagenation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/common/tab_food.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/tab_food.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/food/cat.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/card/cat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/food/cat_set.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/card/cat_set.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/food/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/card/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/food/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/card/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/food/set.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/card/set.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/stat/food.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/stat/food.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/stat/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/stat/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/stat/member.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/stat/member.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/stat/share.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/stat/share.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Click-7.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Click-7.0.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Click-7.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Click-7.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Click-7.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Click-7.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.2.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.2.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.2.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.2.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.2.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.2.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.2.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.10.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.10.1.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.10.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.10.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.10.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.10.1.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.10.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/LICENSE.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.15.2.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.15.2.dist-info/LICENSE.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.15.2.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.15.2.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.15.2.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.15.2.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/_bashcomplete.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/_termui_impl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/_textwrap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/_unicodefun.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/_winconsole.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/formatting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/globals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/termui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/click/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/blueprints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/cli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/ctx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/debughelpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/globals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/json/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/json/tag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/signals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/templating.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/flask/wrappers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/LICENSE.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/exc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/jws.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/signer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/timed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/url_safe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/_identifier.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/asyncfilters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/asyncsupport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/bccache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/compiler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/debug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/defaults.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/environment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/ext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/filters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/idtracking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/lexer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/loaders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/meta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/nativetypes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/nodes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/optimizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/runtime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/sandbox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/visitor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/_constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/_native.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/_speedups.cp37-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/not-zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/requires.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/basecommand.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/baseparser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/build_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/cmdoptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/completion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/commands/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/locations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/models/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/operations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/operations/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/operations/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/operations/prepare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/pep425tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/req/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/req/req_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/req/req_install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/req/req_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/req/req_uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/resolve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/deprecation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/filesystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/glibc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/hashes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/outdated.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/packaging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/setuptools_build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/temp_dir.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/typing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/utils/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/vcs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/vcs/bazaar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/vcs/git.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/vcs/mercurial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/vcs/subversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/_cmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/adapter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/caches/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/caches/file_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/filewrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/heuristics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/serialize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/certifi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/certifi/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/certifi/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/certifi/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/big5freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/big5prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/chardistribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/charsetgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/charsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/cli/chardetect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/codingstatemachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/cp949prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/enums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/escprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/escsm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/eucjpprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/euckrfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/euckrprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/euctwfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/euctwprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/gb2312freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/gb2312prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/hebrewprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/jisfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/jpcntx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/langbulgarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/langcyrillicmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/langgreekmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/langhebrewmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/langhungarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/langthaimodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/langturkishmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/latin1prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/mbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/mbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/mbcssm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/sbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/sbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/sjisprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/universaldetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/utf8prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/colorama/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/colorama/ansi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/colorama/ansitowin32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/colorama/initialise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/colorama/win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/colorama/winterm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/_backport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/_backport/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/_backport/shutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/_backport/sysconfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/_backport/tarfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/manifest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/metadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/resources.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/scripts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/t32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/t64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/w32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/w64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/_ihatexml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/_inputstream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/_tokenizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/_trie/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/_trie/_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/_trie/datrie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/_trie/py.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/filters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/filters/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/filters/lint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/filters/optionaltags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/filters/sanitizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/filters/whitespace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/html5parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treeadapters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treeadapters/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treeadapters/sax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treebuilders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treebuilders/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treebuilders/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treebuilders/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treewalkers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treewalkers/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treewalkers/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treewalkers/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/treewalkers/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/idna/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/idna/codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/idna/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/idna/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/idna/idnadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/idna/intranges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/idna/package_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/idna/uts46data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/ipaddress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/lockfile/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/lockfile/linklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/lockfile/mkdirlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/lockfile/pidlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/lockfile/sqlitelockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/lockfile/symlinklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/msgpack/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/msgpack/_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/msgpack/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/msgpack/fallback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/packaging/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/packaging/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/packaging/_structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/packaging/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/packaging/requirements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/packaging/specifiers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/packaging/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/packaging/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/pkg_resources/py31compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/progress/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/progress/bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/progress/counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/progress/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/progress/spinner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/pyparsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/pytoml/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/pytoml/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/pytoml/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/pytoml/writer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/__version__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/_internal_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/adapters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/certs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/cookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/hooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/retrying.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/_collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/connectionpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/contrib/appengine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/contrib/ntlmpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/contrib/pyopenssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/contrib/securetransport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/contrib/socks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/fields.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/filepost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/packages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/packages/backports/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/packages/backports/makefile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/packages/ordered_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/packages/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/poolmanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/util/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/util/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/util/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/util/retry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/util/selectors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/util/ssl_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/util/timeout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/util/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/util/wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/labels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/mklabels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/_internal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/_reloader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/atom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/fixers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/iterio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/lint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/profiler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/securecookie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/wrappers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/datastructures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/console.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/repr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/FONT_LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/console.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/debugger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/less.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/source.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/ubuntu.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/tbtools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/filesystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/formparser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/http.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/local.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/dispatcher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/http_proxy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/lint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/profiler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/proxy_fix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/shared_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/posixemulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/routing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/security.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/serving.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/testapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/accept.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/base_request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/base_response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/common_descriptors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/etag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/user_agent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/flask.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.7-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/appS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -424,101 +540,141 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/memory_card$index.coverage" NAME="index Coverage Results" MODIFIED="1555724113371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jobs/tasks/queue" />
-    <SUITE FILE_PATH="coverage/notebook$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1555475560251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/memory_card$helper.coverage" NAME="helper Coverage Results" MODIFIED="1555686614967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common/libs" />
-    <SUITE FILE_PATH="coverage/memory_card$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1555753972021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/notebook$notebook.coverage" NAME="notebook Coverage Results" MODIFIED="1554911664999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/memory_card$Flask__appf_py_.coverage" NAME="Flask (appf.py) Coverage Results" MODIFIED="1555688008436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/memory_card$Flask__app_py___1_.coverage" NAME="Flask (app.py) (1) Coverage Results" MODIFIED="1555687747224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/memory_card$app.coverage" NAME="app Coverage Results" MODIFIED="1555753997612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/memory_card$base_setting.coverage" NAME="base_setting Coverage Results" MODIFIED="1555687434572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/memory_card$app.coverage" NAME="app Coverage Results" MODIFIED="1558162777791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/memory_card$memory_card.coverage" NAME="memory_card Coverage Results" MODIFIED="1558172695072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="memory_card_db@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="memory_card_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="memory_card_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="memory_card_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="memory_card_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="memory_card_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="card: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.py">
+        <entry file="file://$PROJECT_DIR$/templates/card/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            <state relative-caret-position="120">
+              <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
               <folding>
-                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#670#2090#0#HTML" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/food/cat.html">
+        <entry file="file://$PROJECT_DIR$/controllers/api/getToken.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/upload/upload.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/web/CardWebController.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+              <folding>
+                <element signature="e#42#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/food/index.html">
+        <entry file="file://$PROJECT_DIR$/common/libs/helper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-378">
-              <caret line="78" column="44" lean-forward="true" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
+            <state relative-caret-position="345">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/food/cat_set.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/food/info.html">
+        <entry file="file://$PROJECT_DIR$/../../pycharmEnv/venv/lib/python3.6/site-packages/jinja2/environment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-667">
-              <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+            <state relative-caret-position="129">
+              <caret line="429" selection-start-line="429" selection-end-line="429" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/food/set.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/common/models/Card.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="e#16#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/common/pagenation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../pycharmEnv/venv/lib/python3.6/site-packages/flask/templating.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="121" column="13" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/common/layout_main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/base_setting.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controllers/api/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="176" column="29" selection-start-line="176" selection-start-column="29" selection-end-line="176" selection-end-column="29" />
-              <folding>
-                <element signature="e#878#2696#0" />
-                <element signature="e#2782#3695#0" />
-                <element signature="e#7940#11179#0" />
-                <element signature="e#11258#11863#0" />
-                <element signature="e#11944#13048#0" />
-                <element signature="e#13131#13638#0" />
-                <element signature="e#13717#14451#0" />
-                <element signature="e#14532#15981#0" />
-              </folding>
+            <state relative-caret-position="23">
+              <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -528,72 +684,57 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Flask Main" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>需要id</find>
-      <find>study</find>
-      <find>cure</find>
+      <find>food</find>
     </findStrings>
+    <replaceStrings>
+      <replace>card</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/common/models/Oauth_member_bind.py" />
-        <option value="$PROJECT_DIR$/memory_card/pages/post/post.wxml" />
-        <option value="$PROJECT_DIR$/controllers/api/member.py" />
-        <option value="$PROJECT_DIR$/memory_card/app.js" />
-        <option value="$PROJECT_DIR$/memory_card/project.config.json" />
-        <option value="$PROJECT_DIR$/common/models/Member.py" />
-        <option value="$PROJECT_DIR$/memory_card/pages/post/post.js" />
-        <option value="$PROJECT_DIR$/controllers/api/getToken.py" />
-        <option value="$PROJECT_DIR$/common/libs/UrlManager.py" />
-        <option value="$PROJECT_DIR$/controllers/upload/upload.py" />
-        <option value="$PROJECT_DIR$/common/models/Card.py" />
-        <option value="$PROJECT_DIR$/common/libs/UploadService.py" />
-        <option value="$PROJECT_DIR$/config/DB.py" />
-        <option value="$PROJECT_DIR$/common/libs/member/MemberService.py" />
-        <option value="$PROJECT_DIR$/venv/manage.py" />
-        <option value="$PROJECT_DIR$/venv/appS.py" />
-        <option value="$PROJECT_DIR$/jobs/tasks/pay/index.py" />
-        <option value="$PROJECT_DIR$/jobs/launcher.py" />
-        <option value="$PROJECT_DIR$/common/models/queue.py" />
-        <option value="$PROJECT_DIR$/common/libs/helper.py" />
-        <option value="$PROJECT_DIR$/common/models/oauth_access_token.py" />
+        <option value="$PROJECT_DIR$/templates/food/info.html" />
         <option value="$PROJECT_DIR$/appf.py" />
         <option value="$PROJECT_DIR$/manage.py" />
-        <option value="$PROJECT_DIR$/common/libs/member/WeChatService.py" />
-        <option value="$PROJECT_DIR$/jobs/tasks/queue/index.py" />
         <option value="$PROJECT_DIR$/controllers/api/__init__.py" />
         <option value="$PROJECT_DIR$/config/base_setting.py" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/templates/common/layout_main.html" />
-        <option value="$PROJECT_DIR$/templates/food/index.html" />
-        <option value="$PROJECT_DIR$/templates/food/info.html" />
+        <option value="$PROJECT_DIR$/common/models/Card.py" />
+        <option value="$PROJECT_DIR$/templates/card/cat.html" />
+        <option value="$PROJECT_DIR$/templates/card/set.html" />
+        <option value="$PROJECT_DIR$/templates/card/info.html" />
+        <option value="$PROJECT_DIR$/templates/common/pagenation.html" />
+        <option value="$PROJECT_DIR$/config/DB.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/controllers/web/CardWebController.py" />
+        <option value="$PROJECT_DIR$/templates/card/index.html" />
+        <option value="$PROJECT_DIR$/common/libs/helper.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1935" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-110" />
+    <option name="y" value="189" />
+    <option name="width" value="1595" />
+    <option name="height" value="897" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -604,39 +745,72 @@
             <path>
               <item name="memory_card" type="b2602c69:ProjectViewProjectNode" />
               <item name="memory_card" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory_card" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory_card" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory_card" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory_card" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory_card" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory_card" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory_card" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory_card" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory_card" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory_card" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory_card" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory_card" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="memory_card" type="b2602c69:ProjectViewProjectNode" />
               <item name="memory_card" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="memory_card" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory_card" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="card" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory_card" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory_card" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\18040\Desktop\memory_card" />
-      <recent name="C:\Users\18040\Desktop\memory_card\templates" />
-      <recent name="C:\Users\18040\Desktop\memory_card\static" />
-      <recent name="E:\QQ文件\1804065684\FileRecv\memory_card" />
-      <recent name="E:\QQ文件\1804065684\FileRecv\memory_card\common\libs\member" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -650,9 +824,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RunManager" selected="Flask server.memory_card">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="notebook" />
+      <module name="memory_card" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -673,78 +847,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="base_setting" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="notebook" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/config" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config/base_setting.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="notebook" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jobs/tasks/queue" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jobs/tasks/queue/index.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
-      <option name="flaskDebug" value="true" />
-      <module name="notebook" />
+    <configuration name="memory_card" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="memory_card" />
       <option name="target" value="$PROJECT_DIR$/app.py" />
       <option name="targetType" value="PATH" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Flask server.Flask (app.py)" />
-      <item itemvalue="Python.app" />
-      <item itemvalue="Python.base_setting" />
-      <item itemvalue="Python.index" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.app" />
-        <item itemvalue="Flask server.Flask (app.py)" />
-        <item itemvalue="Python.index" />
-        <item itemvalue="Python.base_setting" />
       </list>
     </recent_temporary>
   </component>
@@ -753,188 +873,64 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1b1e006a-4e00-4342-ab47-650417431773" name="Default Changelist" comment="" />
-      <created>1554911279594</created>
+      <changelist id="e13ad22b-7902-4af5-87fa-03b9e2309945" name="Default Changelist" comment="" />
+      <created>1558162642382</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554911279594</updated>
-      <workItem from="1554911295871" duration="1538000" />
-      <workItem from="1554955818170" duration="5719000" />
-      <workItem from="1554972663281" duration="1445000" />
-      <workItem from="1555072357539" duration="1177000" />
-      <workItem from="1555127076671" duration="597000" />
-      <workItem from="1555128566066" duration="159000" />
-      <workItem from="1555153051573" duration="1169000" />
-      <workItem from="1555154735605" duration="79000" />
-      <workItem from="1555169813432" duration="63000" />
-      <workItem from="1555170201129" duration="1665000" />
-      <workItem from="1555244271688" duration="197000" />
-      <workItem from="1555244475905" duration="10520000" />
-      <workItem from="1555327627193" duration="1421000" />
-      <workItem from="1555411021602" duration="7927000" />
-      <workItem from="1555429738341" duration="2052000" />
-      <workItem from="1555474245280" duration="2146000" />
-      <workItem from="1555496515648" duration="1090000" />
-      <workItem from="1555498029335" duration="1537000" />
-      <workItem from="1555500369325" duration="9828000" />
-      <workItem from="1555517345515" duration="86000" />
-      <workItem from="1555557153853" duration="7132000" />
-      <workItem from="1555567307285" duration="3821000" />
-      <workItem from="1555574517524" duration="188000" />
-      <workItem from="1555580285361" duration="2442000" />
-      <workItem from="1555586153619" duration="725000" />
-      <workItem from="1555603634141" duration="1028000" />
-      <workItem from="1555650557917" duration="25000" />
-      <workItem from="1555650661288" duration="597000" />
-      <workItem from="1555652655064" duration="13963000" />
-      <workItem from="1555687961732" duration="310000" />
-      <workItem from="1555688616300" duration="2539000" />
-      <workItem from="1555719590965" duration="9687000" />
-      <workItem from="1555750803588" duration="852000" />
-      <workItem from="1558148697250" duration="8216000" />
+      <updated>1558162642382</updated>
+      <workItem from="1558162643834" duration="11239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101940000" />
+    <option name="totallyTimeSpent" value="11239000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="34" width="1920" height="1046" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13006397" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13087606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" weight="0.32969433" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4284165" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32874617" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5480349" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2559653" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" visible="true" weight="0.1693376" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/controllers/api/__init__.py</url>
-          <line>239</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/controllers/api/__init__.py</url>
-          <line>411</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/controllers/api/__init__.py</url>
-          <line>438</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/memory_card$app.coverage" NAME="app Coverage Results" MODIFIED="1558160394203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/memory_card/pages/welcome/welcome.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/memory_card/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/werkzeug/local.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/flask/globals.py" />
-    <entry file="file://$PROJECT_DIR$/controllers/upload/__init__.py">
+    <entry file="file://$PROJECT_DIR$/static/site.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/memory_card/pages/bianji/bianji.js">
+    <entry file="file://$PROJECT_DIR$/../../pycharmEnv/venv/lib/python3.6/site-packages/werkzeug/serving.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/memory_card/pages/bianji/bianji.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1755" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/sqlalchemy/orm/session.py" />
-    <entry file="file://$PROJECT_DIR$/controllers/upload/upload.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-453">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="1008" selection-start-line="1008" selection-end-line="1008" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/api/getToken.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/upload/5/20190419/f69207599f114b9da372432e4448bd31.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/upload/5/20190419/5409896416b5410f89e745a11f9f9df1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/upload/5/20190419/2771683d15c64eb493d08b4e880858d8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/upload/5/20190419/8e4c7a61b48747a39245f80b629ab704.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/upload/5/20190419/2e5c8188083d48edbac1e1ac16137ba6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/manage.py">
+    <entry file="file://$PROJECT_DIR$/uwsgi.ini">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/jobs/tasks/pay/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/models/queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <element signature="e#16#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/appS.py">
+    <entry file="file://$PROJECT_DIR$/config/uwsgi.ini">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -945,227 +941,230 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/models/Oauth_member_bind.py">
+    <entry file="file://$PROJECT_DIR$/interceptors/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#16#85#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-834" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/error/error.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/card/cat_set.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/card/set.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-530">
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/models/oauth_access_token.py">
+    <entry file="file://$PROJECT_DIR$/templates/card/cat.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding>
-            <element signature="e#16#72#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/Images.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/common/tab_food.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/common/layout_user.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/card/info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2967">
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/web/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jobs/tasks/queue/index.py">
+    <entry file="file://$PROJECT_DIR$/appf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="115">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding>
-            <element signature="e#24#48#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/libs/member/WeChatService.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2929">
-          <caret line="106" column="68" selection-start-line="106" selection-start-column="68" selection-end-line="106" selection-end-column="68" />
-          <folding>
-            <element signature="e#24#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/models/Card.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="10" />
-          <folding>
-            <element signature="e#16#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jobs/launcher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="e#25#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/__init__.py">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ee4a07e7-5c40-473c-b8b9-485bf71d51d8/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/97f38584-3c2e-4c59-8b9c-dc2557ee150a/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://97f38584-3c2e-4c59-8b9c-dc2557ee150a/schema/memory_card_db/table/card">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../pycharmEnv/venv/lib/python3.6/site-packages/flask/_compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/base_setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/DB.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nohup.out">
+    <entry file="file://$PROJECT_DIR$/controllers/api/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1566" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="314">
+          <caret line="237" column="26" selection-start-line="237" selection-start-column="6" selection-end-line="237" selection-end-column="26" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/libs/UploadService.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-310053668/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        <state relative-caret-position="216">
+          <caret line="2871" column="8" selection-start-line="2871" selection-start-column="8" selection-end-line="2871" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../pycharmEnv/venv/lib/python3.6/site-packages/jinja2/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../pycharmEnv/venv/lib/python3.6/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="1798" selection-start-line="1798" selection-end-line="1798" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../pycharmEnv/venv/lib/python3.6/site-packages/flask/templating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="121" column="13" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/common/pagenation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/common/layout_main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/api/getToken.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/upload/upload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="e#24#66#0" expanded="true" />
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/Card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#16#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../pycharmEnv/venv/lib/python3.6/site-packages/jinja2/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="429" selection-start-line="429" selection-end-line="429" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/card/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+          <folding>
+            <element signature="e#670#2090#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/web/CardWebController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding>
+            <element signature="e#42#86#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/libs/helper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/libs/member/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/models/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/libs/member/MemberService.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/libs/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/libs/UrlManager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/api/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="176" column="29" selection-start-line="176" selection-start-column="29" selection-end-line="176" selection-end-column="29" />
-          <folding>
-            <element signature="e#878#2696#0" />
-            <element signature="e#2782#3695#0" />
-            <element signature="e#7940#11179#0" />
-            <element signature="e#11258#11863#0" />
-            <element signature="e#11944#13048#0" />
-            <element signature="e#13131#13638#0" />
-            <element signature="e#13717#14451#0" />
-            <element signature="e#14532#15981#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/base_setting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/food/Food.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/food/cat.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/common/layout_main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/food/info.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-667">
-          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/food/set.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/food/cat_set.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/food/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-378">
-          <caret line="78" column="44" lean-forward="true" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
+        <state relative-caret-position="345">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
         </state>
       </provider>
     </entry>

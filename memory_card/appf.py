@@ -3,5 +3,4 @@ from flask_script import Manager
 
 app = Flask(__name__)
 
-
-manager = Manager( app )
+manager = Manager(app)
