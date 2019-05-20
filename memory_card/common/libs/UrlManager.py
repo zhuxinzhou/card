@@ -1,22 +1,27 @@
 # -*- coding: utf-8 -*-
 from flask import Flask
-app=Flask(__name__)
+
+app = Flask(__name__)
 import time
-from config.base_setting import APP,UPLOAD
+from config.base_setting import APP, UPLOAD
+
+
 class UrlManager(object):
     def __init__(self):
         pass
 
     @staticmethod
-    def buildUrl( path ):
+    def buildUrl(path):
         return path
 
     @staticmethod
     def buildStaticUrl(path):
-        # release_version = app.config.get( "release_version" )
-        ver = "%s"%( "first" )
-        path =  "/static" + path + "?ver=" + ver
-        return UrlManager.buildUrl( path )
+        """
+        构建静态文件的获取地址
+        :param path:
+        :return:
+        """
+        return UrlManager.buildUrl("/static" + path)
 
     @staticmethod
     def buildImageUrl(path):

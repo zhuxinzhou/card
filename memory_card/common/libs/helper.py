@@ -1,5 +1,6 @@
 from flask import g, render_template
 import datetime
+import math
 
 
 def ops_render(template, context={}):
@@ -8,14 +9,10 @@ def ops_render(template, context={}):
     return render_template(template, **context)
 
 
-'''
-自定义分页类
-'''
-
-
 def iPagination(params):
-    import math
-
+    """
+    自定义分页类
+    """
     ret = {
         "is_prev": 1,
         "is_next": 1,
@@ -61,9 +58,16 @@ def iPagination(params):
 
 
 def getCurrentDate(format="%Y-%m-%d %H:%M"):
+    """
+    获取当前时间
+    """
     return datetime.datetime.now().strftime(format)
 
 
+def str_date_to_datetime(str_date):
+    return datetime.datetime.strptime(str_date, "%Y-%m-%d %H:%M")
+
+
 def getReviewDate(i):
-    format = "%Y-%m-%d %H:%M"
-    return (datetime.datetime.now() + datetime.timedelta(hours=i)).strftime(format)
+    format_str = "%Y-%m-%d %H:%M"
+    return (datetime.datetime.now() + datetime.timedelta(hours=i)).strftime(format_str)
