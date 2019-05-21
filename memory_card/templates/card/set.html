@@ -1,0 +1,156 @@
+{# 添加 / 修改 页面  修改页面会将原数据填充 #}
+{#
+添加：
+card_name
+card_content
+last_time
+#}
+
+{% extends "common/layout_main.html" %}
+{% block content %}
+    <div class="row  border-bottom">
+        <div class="col-lg-12">
+            <div class="tab_title">
+                <ul class="nav nav-pills">
+                    <li class="current">
+                        <a href="{{ buildUrl('/card/index') }}">卡片列表</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="row mg-t20 wrap_card_set" style="">
+        <div class="col-lg-12" style="">
+            <h2 class="text-center">添加记忆卡片</h2>
+
+            {# 分类 没有数据库 无法存储 #}
+            <div class="form-horizontal m-t">
+                <div class="form-group">
+                    <label class="col-lg-2 control-label">分类:</label>
+                    <div class="col-lg-8">
+                        <select name="fromid" class="form-control" tabindex="-1"
+                                aria-hidden="true">
+                            <option value="0">请选择分类</option>
+                            <option value="8" selected>六级单词</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="hr-line-dashed"></div>
+
+                {# 卡片名称 #}
+                <div class="form-group">
+                    <label class="col-lg-2 control-label">卡片名称:</label>
+                    <div class="col-lg-8">
+                        <input type="text" class="form-control" placeholder="请输入卡片名称" name="card_name"
+                                {% if card_info %} value="{{ card_info.card_name }}" {% endif %}>
+                    </div>
+                </div>
+                <div class="hr-line-dashed"></div>
+
+                {# 卡片内容 富文本 #}
+                <div class="hr-line-dashed"></div>
+                <div class="form-group" style="">
+                    <label class="col-lg-2 control-label">卡片内容:</label>
+                    <div class="col-lg-8">
+                        <textarea id="editor" name="card_content" style="height: 300px;">
+                            {% if card_info %}
+                                {{ card_info.card_content }}
+                            {% endif %}
+                        </textarea>
+                    </div>
+                </div>
+
+                {# 复习状态 #}
+                {% if card_info %}
+                    <div class="form-group">
+                        <label class="col-lg-2 control-label">复习状态:</label>
+                        <div class="col-lg-10">
+                            <select name="study_status" class="form-control" tabindex="-1"
+                                    aria-hidden="true">
+                                <option value="0">未复习</option>
+                                {% for t in study_times %}
+                                    <option value="{{ loop.index }}" {% if card_info.study_status == loop.index %}
+                                            selected {% endif %}>
+                                        记忆曲线{{ loop.index }}/8次复习
+                                    </option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    {# 状态 0 未归档 1 已归档 #}
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <label class="col-lg-2 control-label">状态:</label>
+                        <div class="col-lg-10">
+                            <select name="status" class="form-control" tabindex="-1"
+                                    aria-hidden="true">
+                                <option value="0" {% if card_info.status == 0 %} selected {% endif %}>未归档</option>
+                                <option value="1" {% if card_info.status == 1 %} selected {% endif %}>已归档</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    {# 仅修改可见 创建时间 不可修改 #}
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <label class="col-lg-2 control-label">创建时间:</label>
+                        <div class="col-lg-2">
+                            {{ card_info.created_time }}
+                        </div>
+                    </div>
+                {% endif %}
+
+
+                {# 下次复习时间 #}
+                <div class="hr-line-dashed"></div>
+                <div class="form-group">
+                    <label class="col-lg-2 control-label">下次复习时间:</label>
+                    <div id="last-time" class="col-lg-2" style="display: inline-block">
+                        <input id="date" type="date" class="form-control" {% if date_info %}value="{{ date_info }}"{% endif %}>
+                        <select id="hour" class="form-control" tabindex="-1" aria-hidden="true">
+                            {% for h in hour_times %}
+                                <option value="{{ loop.index0 }}" {% if hour_info == loop.index0 %}selected{% endif %}>{{ loop.index0 }}</option>
+                            {% endfor %}
+                        </select>时
+                        <select id="minute" class="form-control" tabindex="-1" aria-hidden="true">
+                            {% for m in minute_times %}
+                                <option value="{{ loop.index0 }}" {% if minute_info == loop.index0 %}selected{% endif %}>{{ loop.index0 }}</option>
+                            {% endfor %}
+                        </select>分
+                    </div>
+                </div>
+
+                <div class="hr-line-dashed"></div>
+                <div class="form-group">
+                    <div class="col-lg-4 col-lg-offset-2">
+                        {% if card_info %}
+                            <input type="hidden" name="id" {% if card_info %} value="{{ card_info.id }}" {% endif %}>
+                            <button class="btn btn-w-m btn-outline btn-primary change">修改</button>
+                        {% else %}
+                            <button class="btn btn-w-m btn-outline btn-primary save">保存</button>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block css %}
+    <link href="{{ buildStaticUrl( '/plugins/select2/select2.min.css' ) }}" rel="stylesheet">
+
+{% endblock %}
+
+{% block js %}
+    <script src="{{ buildStaticUrl( '/js/card/set.js' ) }}"></script>
+
+    <script src="{{ buildStaticUrl( '/plugins/ueditor/ueditor.config.js' ) }}"></script>
+    <script src="{{ buildStaticUrl( '/plugins/ueditor/ueditor.all.min.js' ) }}"></script>
+    <script src="{{ buildStaticUrl( '/plugins/ueditor/lang/zh-cn/zh-cn.js' ) }}"></script>
+    <script src="{{ buildStaticUrl( '/plugins/select2/select2.pinyin.js' ) }}"></script>
+    <script src="{{ buildStaticUrl( '/plugins/select2/zh-CN.js' ) }}"></script>
+    <script src="{{ buildStaticUrl( '/plugins/select2/pinyin.core.js' ) }}"></script>
+    <script src="{{ buildStaticUrl( '/plugins/tagsinput/jquery.tagsinput.min.js' ) }}"></script>
+    <script src="{{ buildStaticUrl( '/plugins/tagsinput/jquery.tagsinput.min.js' ) }}"></script>
+{% endblock %}

@@ -64,7 +64,6 @@ def login():
             db.session.add(model_member)
             db.session.commit()
 
-
             model_bind = OauthMemberBind()
             model_bind.member_id = model_member.id
             model_bind.type = 1
@@ -74,19 +73,14 @@ def login():
             db.session.add(model_bind)
             db.session.commit()
 
-
-
-
-
             bind_info = model_bind
-
 
             member_info = Member.query.filter_by(id=bind_info.member_id).first()
 
             token = "%s#%s" % (MemberService.geneAuthCode(member_info), member_info.id)
             resp['data'] = {'token': token}
     except InvalidRequestError:
-         db.session.rollback()
+        db.session.rollback()
 
     return jsonify(resp)
 
@@ -181,12 +175,12 @@ def noteIndex():
 
                         day_time = math.floor(day_time)
                         preview_time = "应在%s天后复习" % day_time
-                        if(day_time>7):
+                        if (day_time > 7):
                             color = "#2E74B7"
-                        elif(day_time>4):
-                             color ="#8FABDD"
-                        elif(day_time>2):
-                             color = "#BDD7EF"
+                        elif (day_time > 4):
+                            color = "#8FABDD"
+                        elif (day_time > 2):
+                            color = "#BDD7EF"
                         else:
                             color = "#DFEBF7"
 
@@ -224,7 +218,7 @@ def noteIndex():
                     'card_comment': card_comment,
                     'peview_time': preview_time,
                     'current_date': current_data,
-                     'color' : color
+                    'color': color
                 }
 
                 data_card_list.append(tmp_data)
@@ -243,7 +237,6 @@ def notetoday():
     req = request.values
     # app.logger.info(req)
     id = req['uid'] if 'uid' in req else ''
-
 
     if not id or len(id) < 1:
         resp['code'] = -1
@@ -276,9 +269,8 @@ def notetoday():
 
                 d = datetime.datetime.strptime(t_str, '%Y-%m-%d %H:%M')
 
-
                 day_time = (item.last_time - d).days
-                if(day_time==0):
+                if (day_time == 0):
                     if (day_time >= 0):
                         if (day_time <= 1):
                             minute_time = math.floor(((item.last_time - d).seconds) / 3600)
@@ -397,7 +389,7 @@ def carddelete():
     try:
         card_id = req['id'] if 'id' in req else ''
         card = Card.query.filter(Card.id == card_id).first()
-        queue = QueueList.query.filter(QueueList.queue_name ==card_id ).first()
+        queue = QueueList.query.filter(QueueList.queue_name == card_id).first()
         db.session.delete(card)
         db.session.delete(queue)
         db.session.commit()
@@ -448,8 +440,6 @@ def cardinset():
         fromid = req['fromid'] if 'fromid' in req else ''
         imagepath = req['image'] if 'image' in req else ''
 
-
-
         content_part1 = " <div class='weui-article__p'style='font-size:40rpx;'><pre>"
         content_part2 = "<br/><br/></pre><img  src='"
         content_part3 = "' alt='' mode='aspectFill' bindload='imageLoad' data-index='0' bindtap='previewImg'/></div>"
@@ -461,11 +451,10 @@ def cardinset():
         model_card.card_content = content_part1 + card_content + content_part2 + imagepath + content_part3
         model_card.fromid = fromid
 
-        model_card.last_time = getReviewDate(1 /2)
+        model_card.last_time = getReviewDate(1 / 2)
         db.session.add(model_card)
 
         db.session.commit()
-      
 
         model_queue = QueueList()
         model_queue.queue_name = model_card.id
@@ -480,6 +469,5 @@ def cardinset():
         db.session.close()
     except InvalidRequestError:
         db.session.rollback()
-
 
     return jsonify(resp)

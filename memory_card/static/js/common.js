@@ -77,8 +77,8 @@ var common_ops = {
         }
 
 
-        if (pathname.indexOf("/food") > -1) {
-            nav_name = "food";
+        if (pathname.indexOf("/card") > -1) {
+            nav_name = "card";
         }
 
         if (pathname.indexOf("/member") > -1) {
@@ -114,7 +114,7 @@ var common_ops = {
         });
     },
     confirm: function (msg, callback) {
-        callback = (callback != undefined) ? callback : {'ok': null, 'cancel': null};
+        callback = (callback !== undefined) ? callback : {'ok': null, 'cancel': null};
         layer.confirm(msg, {
             btn: ['确定', '取消'] //按钮
         }, function (index) {

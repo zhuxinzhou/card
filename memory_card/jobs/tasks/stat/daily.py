@@ -12,7 +12,7 @@ from common.models.food.FoodSaleChangeLog import FoodSaleChangeLog
 from sqlalchemy import func
 import random
 '''
-python manager.py runjob -m stat/daily -a member|food|site -p 2018-07-01
+python manager.py runjob -m stat/daily -a member|card|site -p 2018-07-01
 '''
 class JobTask():
     def __init__(self):
@@ -34,7 +34,7 @@ class JobTask():
         }
         if act == "member":
             self.statMember( func_params )
-        elif act == "food":
+        elif act == "card":
             self.statFood( func_params )
         elif act == "site":
             self.statSite( func_params)
