@@ -37,7 +37,7 @@
                     </div>
                     <div class="form-group">
                         <div class="input-group">
-                            <input type="hidden" name="p" {% if search_info %} value="{{ search_info['p'] }}" {% endif %}>>
+                            <input type="hidden" name="p" {% if search_info %} value="{{ search_info['p'] }}" {% endif %}>
                             <input type="text" name="search_card_name" placeholder="请输入关键字" class="form-control"
                                    {% if search_info %} value="{{ search_info['search_card_name'] }}" {% endif %}>
                             <span class="input-group-btn">

@@ -24,7 +24,7 @@ var card_index_fun = {
                     type: 'DELETE',
                     dataType: 'json',
                     success: function (result) {
-                        var callback = null;
+                        let callback = null;
                         if (result.code === 200) {
                             callback = function () {
                                 window.location.href = window.location.href;
