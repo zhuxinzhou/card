@@ -21,14 +21,15 @@
                         <label>
                             <select name="search_status" class="form-control inline">
                                 <option value="-1">请选择状态</option>
-                                <option value="1">未归档</option>
-                                <option value="0">已归档</option>
+                                <option value="0" {% if search_info and search_info['search_status'] == 0 %} selected {% endif %}>未归档</option>
+                                <option value="1" {% if search_info and search_info['search_status'] == 1 %} selected {% endif %}>已归档</option>
                             </select>
                         </label>
                     </div>
                     <div class="form-group">
                         <label>
-                            <select name="" class="form-control inline">
+                            {# 有数据库需要将该项加上 name="" 暂时此项无法使用 #}
+                            <select class="form-control inline">
                                 <option value="-1">请选择分类</option>
                                 <option value="1">六级单词</option>
                             </select>
@@ -36,12 +37,14 @@
                     </div>
                     <div class="form-group">
                         <div class="input-group">
-                            <input type="text" name="search_card_name" placeholder="请输入关键字" class="form-control" value="">
+                            <input type="hidden" name="p" {% if search_info %} value="{{ search_info['p'] }}" {% endif %}>>
+                            <input type="text" name="search_card_name" placeholder="请输入关键字" class="form-control"
+                                   {% if search_info %} value="{{ search_info['search_card_name'] }}" {% endif %}>
                             <span class="input-group-btn">
                             <button type="button" class="btn  btn-primary search">
                                 <i class="fa fa-search"></i>搜索
                             </button>
-                        </span>
+                            </span>
                         </div>
                     </div>
                 </div>

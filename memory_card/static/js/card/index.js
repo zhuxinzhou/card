@@ -11,6 +11,10 @@ var card_index_fun = {
             that.removeCard($(this).attr("data"))
         });
 
+        // 搜索
+        $(".wrap_search .search").click( function(){
+                $(".wrap_search").submit();
+        });
     },
     removeCard: function (id) {
         var callback = {

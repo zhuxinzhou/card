@@ -6,6 +6,7 @@ import re
 import time
 
 from flask import Blueprint, jsonify, request
+from sqlalchemy import or_
 
 from common.libs.helper import ops_render, getCurrentDate, iPagination
 from common.models.Card import Card
@@ -22,8 +23,13 @@ def card_index():
     :return: card/index.html view_data
     """
     view_data = {}
+
     req = request.values
     page_num = int(req['p']) if ('p' in req and req['p']) else 1
+    search_status = int(req['search_status']) if ('search_status' in req and req['search_status']) else -1
+    search_card_name = req('search_card_name') if ('search_card_name' in req and req['search_card_name']) else ''
+
+    # 分页参数
     params = {
         'total': Card.query.count(),
         'page_size': ONE_PAGE_SHOW,
@@ -34,10 +40,22 @@ def card_index():
     page_set = iPagination(params)
     offset = (page_num - 1) * ONE_PAGE_SHOW
 
-    card_list = Card.query.order_by(Card.id.desc()).offset(offset).limit(ONE_PAGE_SHOW).all()
+    card_list_query = Card.query
+
+    if search_status != -1:
+        card_list_query = Card.query.filter(Card.status == search_status)
+
+    if search_card_name != '':
+        search_regx = Card.card_name.ilike(str(search_card_name).strip())
+        card_list_query = Card.query.filter(search_regx)
+
+    # card_list = Card.query.order_by(Card.id.desc()).offset(offset).limit(ONE_PAGE_SHOW).all()
+    card_list = card_list_query.order_by(Card.created_time.desc()).offset(offset).limit(ONE_PAGE_SHOW).all()
 
     view_data['card_list'] = card_list
     view_data['pages'] = page_set
+    # view_data['cur_page'] = page_num
+    view_data['search_info'] = req
     return ops_render("card/index.html", view_data)
     # return render_template('card/index.html', view_data=view_data)
 
